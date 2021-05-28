@@ -1,0 +1,7 @@
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\bin\Debug\src.exe.config
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\bin\Debug\src.exe
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\bin\Debug\src.pdb
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\obj\Debug\src.csprojAssemblyReference.cache
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\obj\Debug\src.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\obj\Debug\src.exe
+C:\Users\Owner\Downloads\exam-master (2)\exam-master\src\obj\Debug\src.pdb
